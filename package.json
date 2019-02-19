@@ -1,0 +1,11 @@
+{
+  "name": "console-brief",
+  "version": "1.0.0",
+  "description": "A briefcard in a hacky console design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "webben",
+  "license": "ISC"
+}
